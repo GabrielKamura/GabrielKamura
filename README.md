@@ -1,46 +1,33 @@
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/topo-escuro.svg">
-  <img src="img/topo-claro.svg" width="100%" alt="Gabriel Kamura, 18 anos, de São Paulo. Eu faço apps de Mac, extensões e jogos.">
-</picture>
-<a href="https://github.com/GabrielKamura/kamurafy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/kamurafy-escuro.svg">
-    <img src="img/kamurafy-claro.svg" width="100%" alt="Kamurafy, app de Mac: cuida do seu Mac e, principalmente, da sua bateria.">
-  </picture>
-</a>
-<a href="https://github.com/GabrielKamura/kamurar">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/kamurar-escuro.svg">
-    <img src="img/kamurar-claro.svg" width="100%" alt="Kamurar, app de Mac em obras: abre .rar, .zip e .7z no Mac e cria .zip e .7z com senha.">
-  </picture>
-</a>
-<a href="https://github.com/GabrielKamura/kamurafox">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/kamurafox-escuro.svg">
-    <img src="img/kamurafox-claro.svg" width="100%" alt="Kamurafox, extensão do Firefox: deixa o Claude Code dirigir o Firefox, clicando, digitando e lendo.">
-  </picture>
-</a>
-<a href="https://moneysniper.io">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="img/moneysniper-escuro.svg">
-    <img src="img/moneysniper-claro.svg" width="100%" alt="Money Sniper, jogo de ritmo no navegador: acerte as notas na batida. Jogue em moneysniper.io.">
-  </picture>
-</a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielKamura/GabrielKamura/vivo/numeros-escuro.svg">
-  <img src="https://raw.githubusercontent.com/GabrielKamura/GabrielKamura/vivo/numeros-claro.svg" width="100%" alt="Meus números de hoje no GitHub (commits, repositórios públicos e versões lançadas) e as linguagens de que os projetos são feitos.">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielKamura/GabrielKamura/vivo/cobrinha-escuro.svg">
-  <img src="https://raw.githubusercontent.com/GabrielKamura/GabrielKamura/vivo/cobrinha-claro.svg" width="100%" alt="Uma cobrinha comendo os quadradinhos das minhas contribuições dos últimos 6 meses.">
-</picture>
-</p>
+## Oi, eu sou o Gabriel Kamura! Faço apps de Mac, extensões e jogos.
 
-<p>
-<a href="https://www.instagram.com/gabriel_kamura"><picture><source media="(prefers-color-scheme: dark)" srcset="img/instagram-escuro.svg"><img src="img/instagram-claro.svg" height="62" alt="Instagram: @gabriel_kamura"></picture></a>
-<a href="https://www.linkedin.com/in/gabrielkamura"><picture><source media="(prefers-color-scheme: dark)" srcset="img/linkedin-escuro.svg"><img src="img/linkedin-claro.svg" height="62" alt="LinkedIn: gabrielkamura"></picture></a>
-<a href="https://moneysniper.io"><picture><source media="(prefers-color-scheme: dark)" srcset="img/site-escuro.svg"><img src="img/site-claro.svg" height="62" alt="Site: moneysniper.io"></picture></a>
-</p>
+<div align="center">
+  <a href="https://github.com/GabrielKamura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKamura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKamura&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  </a>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
 
-Os apps e a extensão são grátis e de código aberto (GPL). O jogo é só abrir e jogar.
+##
+
+<div>
+  <a href="https://www.instagram.com/gabriel_kamura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielkamura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://moneysniper.io" target="_blank"><img src="https://img.shields.io/badge/moneysniper.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a>
+
+  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielKamura/GabrielKamura/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/GabrielKamura/GabrielKamura/output/github-contribution-grid-snake.svg">
+</picture>
