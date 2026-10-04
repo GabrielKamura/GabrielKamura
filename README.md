@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrielKamura">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=GabrielKamura&show_icons=true&theme=dracula&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=GabrielKamura&show_icons=true&theme=dracula&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKamura&layout=compact&langs_count=4&theme=dracula"/>
   </a>
 </div>
