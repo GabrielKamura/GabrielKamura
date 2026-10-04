@@ -104,13 +104,12 @@ def svg(alt, corpo, estilo=''):
 
 # ---------- topo ----------
 
-# o letreiro "eu faço ___": a palavra troca sozinha
+# o letreiro "eu faço ___": a palavra troca sozinha, mesmo com "Reduzir movimento" ligado (decisão do dono)
 PALAVRAS = ['apps de Mac', 'extensões', 'jogos']
 
 TROCA = ('.p{opacity:0;animation:troca 7.5s infinite}.p1{opacity:1}.p2{animation-delay:2.5s}.p3{animation-delay:5s}'
          '@keyframes troca{0%{opacity:0;transform:translateY(16px)}4%,31%{opacity:1;transform:none}'
-         '35%,100%{opacity:0;transform:translateY(-16px)}}'
-         '@media (prefers-reduced-motion:reduce){.p{animation:none}}')
+         '35%,100%{opacity:0;transform:translateY(-16px)}}')
 
 
 def topo(tema):
@@ -137,8 +136,7 @@ def topo(tema):
 # ---------- cartões dos projetos ----------
 
 PISCA = ('.o{transform-box:fill-box;transform-origin:center;animation:pisca 4.6s infinite}'
-         '@keyframes pisca{0%,93%,100%{transform:none}96%{transform:scaleY(.1)}}'
-         '@media (prefers-reduced-motion:reduce){.o{animation:none}}')
+         '@keyframes pisca{0%,93%,100%{transform:none}96%{transform:scaleY(.1)}}')
 
 # a bateria do Kamurafy (geometria de ui/js/mascote.js), 260 x 200
 BATERIA = (
