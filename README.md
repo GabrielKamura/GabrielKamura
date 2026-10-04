@@ -1,9 +1,9 @@
-## Oi, eu sou o Gabriel Kamura! Faço apps de Mac, extensões e jogos.
+## Hi, I'm Gabriel Kamura! I make Mac apps, extensions and games.
 
 <div align="center">
   <a href="https://github.com/GabrielKamura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKamura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKamura&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKamura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKamura&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
